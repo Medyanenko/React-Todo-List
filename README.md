@@ -1,5 +1,7 @@
 # React Todo List
 
+![Preview](src/assets/preview.png)
+
 A simple React application for managing tasks. This project allows you to add, mark, and delete tasks using a user-friendly interface.
 
 ## Technologies Used
